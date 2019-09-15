@@ -8,5 +8,10 @@ namespace KinfeHitClone
     {
         public Sprite woodLogImage;
         public Animation woodLogAnimation;
+
+        private void Start()
+        {
+
+        }
     }
 }
